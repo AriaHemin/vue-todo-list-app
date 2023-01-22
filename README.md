@@ -1,24 +1,5 @@
 # vue-todo-list-app
+the most advanced todo list app made with vue.
 
-## Project setup
-```
-npm install
-```
+live demo : [vue todo list app](https://vue-todo-list-app.vercel.app/)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
